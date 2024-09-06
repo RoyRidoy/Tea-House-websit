@@ -1,0 +1,9 @@
+.bg-img{
+    background-image: url(img/Rectangle\ 342.png);
+    background-repeat: no-repeat;
+}
+.bg{
+    background-image: url("img/Rectangle\ 342.png");
+    background-repeat: no-repeat;
+   
+}
