@@ -1,9 +1,16 @@
 .bg-img{
     background-image: url(img/Rectangle\ 342.png);
     background-repeat: no-repeat;
+    /* width: 80%;
+    height: 50%; 
+    padding: 80px;
+    margin: 0 auto; */
 }
 .bg{
-    background-image: url("img/Rectangle\ 342.png");
+    background-image: url(img/Rectangle\ 342.png);
     background-repeat: no-repeat;
-   
+}
+.card-bg{
+    background-image: url(img/Rectangle\ 342.png);
+    background-repeat: no-repeat;
 }
